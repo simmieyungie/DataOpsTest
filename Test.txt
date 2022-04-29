@@ -1,1 +1,2 @@
 select * from production.products
+select * from production.products2
